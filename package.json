@@ -1,0 +1,10 @@
+{
+  "name": "StravaClient",
+  "version": "0.0.0",
+  "description": "StravaClient",
+  "main": "server.js",
+  "author": {
+    "name": "bartek",
+    "email": ""
+  }
+}
